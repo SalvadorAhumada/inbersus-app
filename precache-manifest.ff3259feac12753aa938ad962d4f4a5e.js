@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5e6408cde5a34f9c8c4084fd92f7b31",
+    "revision": "8089485ac8f3864e8e75036de0de3095",
     "url": "/inbersus-app/index.html"
   },
   {

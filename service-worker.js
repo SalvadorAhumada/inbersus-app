@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/inbersus-app/precache-manifest.08f794b25018e56623a567710f1ef86d.js"
+  "/inbersus-app/precache-manifest.ff3259feac12753aa938ad962d4f4a5e.js"
 );
 
 self.addEventListener('message', (event) => {
