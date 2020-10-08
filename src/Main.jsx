@@ -234,7 +234,7 @@ class Main extends Component {
           {loading}
           {table}
         </div>
-        <Welcome />
+        <Welcome/>
       </Animated>
     );
   }

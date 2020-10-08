@@ -1,8 +1,8 @@
 {
-  "name": "github-react",
+  "name": "inbersus-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://salvadorahumada.github.io/github_react",
+  "homepage": "http://salvadorahumada.github.io/inbersus-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
@@ -24,7 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "serve -s build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "postinstall": "react-scripts build"
   },
   "eslintConfig": {
