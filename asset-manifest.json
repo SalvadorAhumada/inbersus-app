@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inbersus-app/static/css/main.5d3b8cd6.chunk.css",
+    "main.js": "/inbersus-app/static/js/main.98817c1f.chunk.js",
+    "main.js.map": "/inbersus-app/static/js/main.98817c1f.chunk.js.map",
+    "runtime-main.js": "/inbersus-app/static/js/runtime-main.b27f1e7f.js",
+    "runtime-main.js.map": "/inbersus-app/static/js/runtime-main.b27f1e7f.js.map",
+    "static/js/2.0d0cdb78.chunk.js": "/inbersus-app/static/js/2.0d0cdb78.chunk.js",
+    "static/js/2.0d0cdb78.chunk.js.map": "/inbersus-app/static/js/2.0d0cdb78.chunk.js.map",
+    "index.html": "/inbersus-app/index.html",
+    "precache-manifest.08f794b25018e56623a567710f1ef86d.js": "/inbersus-app/precache-manifest.08f794b25018e56623a567710f1ef86d.js",
+    "service-worker.js": "/inbersus-app/service-worker.js",
+    "static/css/main.5d3b8cd6.chunk.css.map": "/inbersus-app/static/css/main.5d3b8cd6.chunk.css.map",
+    "static/media/logo.686f6509.svg": "/inbersus-app/static/media/logo.686f6509.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b27f1e7f.js",
+    "static/js/2.0d0cdb78.chunk.js",
+    "static/css/main.5d3b8cd6.chunk.css",
+    "static/js/main.98817c1f.chunk.js"
+  ]
+}
