@@ -1,20 +1,13 @@
-import React from 'react'
-import './App.css'
+import React from "react";
+import "./styles.css";
+import Main from "./Main";
 
-class App extends React.Component {
-    state = { advice: '' }
-
-    render() {
-        const { advice } = this.state ;
-        return (
-            <div>
-            <div className="app">
-            <h1>TEST</h1>
-          </div>
-          </div>
-
-        );
-    }
+export default function App() {
+  return (
+    <div className="App">
+      <Main />
+    </div>
+  );
 }
 
-export default App
+export default App;
