@@ -1,11 +1,11 @@
 import React from "react";
 import "./style/styles.css";
-import Main from "./Main";
+import Intro from "./Intro";
 
 export default function App() {
   return (
     <div className="App">
-      <Main />
+      <Intro />
     </div>
   );
 }

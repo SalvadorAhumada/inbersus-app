@@ -1,6 +1,8 @@
 import React from "react"
 import ReactDOM from "react-dom"
-
 import App from './App';
+import { InvestmentProvider } from "./context/investmentContext";
 
-ReactDOM.render( <App /> , document.getElementById("root"))
+ReactDOM.render(<InvestmentProvider>
+    <App />
+</InvestmentProvider>, document.getElementById("root"))
