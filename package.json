@@ -4,20 +4,16 @@
   "private": true,
   "homepage": "http://salvadorahumada.github.io/inbersus-app",
   "dependencies": {
-    "@material-ui/core": "^4.11.2",
+    "@ant-design/icons": "^4.0.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
-    "materialize-css": "^1.0.0",
+    "antd": "^4.10.0",
     "react": "^16.12.0",
-    "react-animated-css": "^1.2.1",
     "react-dom": "^16.12.0",
     "react-dropdown": "^1.7.0",
-    "react-materialize": "^3.5.9",
-    "react-number-format": "^4.3.1",
+    "react-number-format": "^4.4.4",
     "react-scripts": "3.2.0",
-    "sweetalert2": "^9.13.1",
-    "sweetalert2-react-content": "^3.0.1",
     "xlsx": "^0.16.2"
   },
   "scripts": {
